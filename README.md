@@ -17,7 +17,7 @@ In order to use this, you just need to include this file:
 #include "matrix.h"
 ```
 
-In main.cpp you can find some testing of this library.
+In main.cpp you can find some testing for this library.
 
 # Remarks
 
