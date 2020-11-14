@@ -7,8 +7,8 @@ Since this class is implemented using templates, the type is going to be settled
 
 ```C++
 auto *A = new Matrix<int>(3, 3);
-2 auto *v = new Matrix<int>(3, 1); //vector
-3 auto *u = new Matrix<int>(3); //vector
+auto *v = new Matrix<int>(3, 1); //vector
+auto *u = new Matrix<int>(3); //vector
 ```
 
 In order to use this, you just need to include this file:
